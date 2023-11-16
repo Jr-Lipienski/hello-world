@@ -1,3 +1,5 @@
 # hello-world
-Trabalho git e github
+
+print("hello world")
+
 aluno Renato Júnior
